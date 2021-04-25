@@ -10,3 +10,5 @@ This is a multi-parameter fitting program to convert the ellipsometry raw data, 
 + 'drude.m', 'sellmeier.m' is the code to describe two widely used model for isotropic material, see ref.2.
 + 'main.m' is the file needs to be executed based on all the files mentioned above.
 + 'se_plot_inital.m' can plot the generated ψ and Δ comparing with the raw data, to see if the initial values for model parameters are reasonable.
+
+Hope this project can help you, and your contributions are always cherished.
