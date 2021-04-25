@@ -1,1 +1,1 @@
-# ES-FIT
+# An ellipsometry data analysis project for isotropic materials
